@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>Puntos de interés entre Rubí-Sant Cugat</name>
+			    <trkseg>
+	
+			<trkpt lat="41.472850" lon="2.039440">
+				<ele>113</ele>
+				<time>2016-10-24T20:57:39Z</time>
+				<name>Font Groga</name>
+			</trkpt>
+
+		
+			<trkpt lat="41.469380" lon="2.060330">
+				<ele>128</ele>
+				<time>2016-10-25T04:05:39Z</time>
+				<name>Font Blava</name>
+			</trkpt>
+
+		
+			<trkpt lat="41.468740" lon="2.060720">
+				<ele>128</ele>
+				<time>2016-10-25T05:21:39Z</time>
+				<name>Font Blanca</name>
+
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

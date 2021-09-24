@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-6832199--Sant Adrià de Besòs:Ruta-Capgemini 2 pi</name>
+			    <trkseg>
+	
+			<trkpt lat="41.405980" lon="2.198270">
+			 <ele>9</ele>
+			 <name>TRAM - Pere IV</name>
+			<time>2016-12-05T12:22:47Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.408040" lon="2.209090">
+			 <ele>10</ele>
+			 <name>L4 - Selva de Mar</name>
+			<time>2016-12-05T12:24:47Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.403760" lon="2.203250">
+			 <ele>16</ele>
+			 <name>L4 - Poble Nou</name>
+			<time>2016-12-05T12:26:47Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.399380" lon="2.197720">
+			 <ele>11</ele>
+			 <name>L4 - Llacuna</name>
+			<time>2016-12-05T12:28:47Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.404500" lon="2.191540">
+			 <ele>18</ele>
+			 <name>TRAM - Ca l'Aranyó</name>
+			<time>2016-12-05T12:30:47Z</time>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

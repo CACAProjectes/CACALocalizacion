@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[Rubí-Carretera]]></name>
+        <desc><![CDATA[Rubí-Carretera]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="41.4753628" lon="2.0309955">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Supermercado Chino]]></name>
+                    <cmt><![CDATA[Waypoint no: 1]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 1]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="41.4639713" lon="2.0340854">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Punto Sud]]></name>
+                    <cmt><![CDATA[Waypoint no: 2]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 2]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="41.4831637" lon="2.030341">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Punto Inicio]]></name>
+                    <cmt><![CDATA[Waypoint no: 3]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 3]]></desc>
+                </wpt>
+                                                            
+                    
+    
+</gpx>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-6816913--Rubí:Test-2</name>
+			    <trkseg>
+	
+			<trkpt lat="41.480160" lon="2.034120">
+			 <ele>123</ele>
+			<time>2016-11-29T16:21:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.480720" lon="2.035350">
+			 <ele>121</ele>
+			<time>2016-11-29T16:23:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481600" lon="2.034570">
+			 <ele>121</ele>
+			<time>2016-11-29T16:25:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481070" lon="2.033430">
+			 <ele>124</ele>
+			<time>2016-11-29T16:27:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.482020" lon="2.032630">
+			 <ele>125</ele>
+			<time>2016-11-29T16:29:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.482350" lon="2.032340">
+			 <ele>124</ele>
+			<time>2016-11-29T16:31:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.482530" lon="2.035660">
+			 <ele>122</ele>
+			<time>2016-11-29T16:33:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.482190" lon="2.036170">
+			 <ele>122</ele>
+			<time>2016-11-29T16:35:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481850" lon="2.036630">
+			 <ele>121</ele>
+			<time>2016-11-29T16:37:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481490" lon="2.037010">
+			 <ele>121</ele>
+			<time>2016-11-29T16:39:51Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.480170" lon="2.034130">
+			 <ele>123</ele>
+			<time>2016-11-29T16:41:51Z</time>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

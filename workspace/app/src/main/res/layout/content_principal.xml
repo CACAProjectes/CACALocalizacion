@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_principal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="es.xuan.cacaloc.PrincipalActivity"
+    tools:showIn="@layout/activity_principal">
+    <LinearLayout
+        android:id="@+id/llSuperiorArriba"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left"
+        android:background="@color/Aquamarine">
+
+        <TextView
+            android:id="@+id/tvAplicacion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_blue_bright"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/app_name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Blue" />
+
+        <TextView
+            android:id="@+id/tvFechaEstado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_blue_light"
+            android:gravity="center_horizontal"
+            android:text="@string/pantalla_Fecha_hora"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Blue" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/llSuperior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/llSuperiorIzq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" >
+
+            <LinearLayout
+                android:id="@+id/llSuperiorIzqInt1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/tvDistanciaEnCursoLit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_DistanciaEnCursoLit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/White"
+                    />
+                <TextView
+                    android:id="@+id/tvTiempoEnCursoLit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_TiempoEnCursoLit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/White"
+                    />
+                <TextView
+                    android:id="@+id/tvDistanciaPendienteLit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_DistanciaPendienteLit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/DarkGray"
+                    />
+                <TextView
+                    android:id="@+id/tvTiempoPendienteLit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_TiempoPendienteLit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/DarkGray"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/llSuperiorIzqInt2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/tvDistanciaEnCursoVal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_DistanciaEnCursoVal"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/White"
+                    android:gravity="end"
+                    />
+                <TextView
+                    android:id="@+id/tvTiempoEnCursoVal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_TiempoEnCursoVal"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/White"
+                    android:gravity="end"
+                    />
+                <TextView
+                    android:id="@+id/tvDistanciaPendienteVal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_DistanciaPendienteVal"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/DarkGray"
+                    android:gravity="end"
+                    />
+                <TextView
+                    android:id="@+id/tvTiempoPendienteVal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pantalla_TiempoPendienteVal"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/DarkGray"
+                    android:gravity="end"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/llSuperiorMed"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:background="@color/CornflowerBlue"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/ivSenyal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_signal_off_grey600_48dp"
+                android:gravity="center_horizontal"/>
+            <TextView
+                android:id="@+id/tvTipoSenyal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pantalla_TipoSenyalSin"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Black"
+                android:gravity="center_horizontal"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llSuperiorDer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/Black"
+            android:gravity="bottom|end"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" >
+
+            <TextView
+                android:id="@+id/tvVelocidadKm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="@string/pantalla_VelocidadKm"
+                android:textColor="@color/Gold"
+                android:textSize="70sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tvVelocidadM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="@string/pantalla_VelocidadM"
+                android:textColor="@color/Goldenrod"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/llCentro"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@color/BlueViolet">
+
+        <LinearLayout
+            android:id="@+id/llBrujula"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:background="@color/Turquoise"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ivBrujula"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:gravity="center_horizontal"
+                android:src="@mipmap/ic_brujula_naranja" />
+        </LinearLayout>
+
+        <es.xuan.cacaloc.draw.PerfilView
+            android:id="@+id/mpPerfil"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/MediumBlue" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/llInferior"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+        <es.xuan.cacaloc.draw.MapaView
+            android:id="@+id/mpRuta"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/Black" />
+    </LinearLayout>
+</LinearLayout>

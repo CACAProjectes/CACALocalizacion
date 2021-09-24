@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-6819247--Rubí:Prueba orientación</name>
+			    <trkseg>
+	
+			<trkpt lat="41.481450" lon="2.036980">
+			 <ele>121</ele>
+			<time>2016-11-30T14:16:29Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.480710" lon="2.035370">
+			 <ele>121</ele>
+			<time>2016-11-30T14:18:29Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481600" lon="2.034620">
+			 <ele>121</ele>
+			<time>2016-11-30T14:20:29Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481080" lon="2.033430">
+			 <ele>124</ele>
+			<time>2016-11-30T14:22:29Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.480130" lon="2.034040">
+			 <ele>122</ele>
+			<time>2016-11-30T14:24:29Z</time>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="es.xuan.cacaloc.PrincipalActivity">
+
+    <include layout="@layout/content_principal" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_settings"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="@dimen/fab_margin"
+        app:backgroundTint="@color/DarkBlue"
+        app:borderWidth="@dimen/fab_border"
+        app:elevation="@dimen/fab_elevation"
+        app:fabCustomSize="75dp"
+        app:maxImageSize="50dp"
+        app:srcCompat="@drawable/ic_settings_white_48dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_play"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:contentDescription="STOP"
+        app:backgroundTint="@color/Green"
+        app:borderWidth="@dimen/fab_border"
+        app:elevation="@dimen/fab_elevation"
+        app:fabCustomSize="75dp"
+        app:maxImageSize="75dp"
+        app:srcCompat="@drawable/ic_play_circle_outline_white_48dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_zoom_mas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:layout_marginBottom="200dp"
+        android:contentDescription="ZOOMMAS"
+        android:paddingTop="@dimen/activity_horizontal_margin"
+        app:backgroundTint="@color/DarkCyan"
+        app:borderWidth="@dimen/fab_border"
+        app:elevation="@dimen/fab_elevation"
+        app:fabCustomSize="75dp"
+        app:maxImageSize="50dp"
+        app:srcCompat="@drawable/ic_magnify_plus_white_48dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_zoom_menos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:layout_marginBottom="40dp"
+        android:contentDescription="ZOOMMENOS"
+        app:backgroundTint="@color/DarkCyan"
+        app:borderWidth="@dimen/fab_border"
+        app:elevation="@dimen/fab_elevation"
+        app:fabCustomSize="75dp"
+        app:maxImageSize="50dp"
+        app:srcCompat="@drawable/ic_magnify_minus_white_48dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_centrar"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_vertical|end"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_marginBottom="200dp"
+        android:contentDescription="CENTRAR"
+        app:backgroundTint="@color/DarkCyan"
+        app:borderWidth="@dimen/fab_border"
+        app:elevation="@dimen/fab_elevation"
+        app:fabCustomSize="75dp"
+        app:maxImageSize="50dp"
+        app:srcCompat="@drawable/ic_adjust_white_18dp" />
+</android.support.design.widget.CoordinatorLayout>

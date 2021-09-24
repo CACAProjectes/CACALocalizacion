@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-6824165--Barcelona:Ruta Capgemini</name>
+			    <trkseg>
+	
+			<trkpt lat="41.403640" lon="2.188920">
+			 <ele>13</ele>
+			<time>2016-12-02T13:38:56Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.404910" lon="2.193860">
+			 <ele>13</ele>
+			<time>2016-12-02T13:40:56Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.404170" lon="2.194980">
+			 <ele>7</ele>
+			<time>2016-12-02T13:42:56Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.402450" lon="2.192690">
+			 <ele>10</ele>
+			<time>2016-12-02T13:44:56Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.403270" lon="2.191600">
+			 <ele>9</ele>
+			<time>2016-12-02T13:46:56Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.402430" lon="2.190420">
+			 <ele>10</ele>
+			<time>2016-12-02T13:48:56Z</time>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

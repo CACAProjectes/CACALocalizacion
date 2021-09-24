@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CACALocalització</string>
+    <string name="action_settings">Configuració</string>
+    <!--  Pantalla -->
+    <string name="pantalla_Fecha_hora">00/00/0000 00:00</string>
+    <string name="pantalla_DistanciaEnCursoLit">Dst.(Km):</string>
+    <string name="pantalla_DistanciaEnCursoVal">0,00</string>
+    <string name="pantalla_TiempoEnCursoLit">Tiempo:</string>
+    <string name="pantalla_TiempoEnCursoVal">00:00:00</string>
+    <string name="pantalla_DistanciaPendienteLit">Dst. pdte.(Km):</string>
+    <string name="pantalla_DistanciaPendienteVal">0,00</string>
+    <string name="pantalla_TiempoPendienteLit">Tiempo pdte.:</string>
+    <string name="pantalla_TiempoPendienteVal">00:00:00</string>
+    <string name="pantalla_VelocidadKm">0</string>
+    <string name="pantalla_VelocidadM">0</string>
+    <string name="pantalla_TipoSenyalGps">GPS</string>
+    <string name="pantalla_TipoSenyalNetwork">Netw</string>
+    <string name="pantalla_TipoSenyalSin">-?-</string>
+    <string name="pantalla_TipoSenyalDesconocida">¿?</string>
+    <!-- Pantalla configuración -->
+    <string name="pantalla_soloGPS">Sólo GPS:</string>
+    <string name="pantalla_rutas">Seleccionar ruta:</string>
+    <string name="pantalla_formato_ruta">Selecconar formato ruta guardada:</string>
+    <string name="pantalla_guardar">Guardar</string>
+    <string name="pantalla_cancelar">Cancelar</string>
+    <string name="pantalla_si">Sí</string>
+    <string name="pantalla_no">No</string>
+    <string name="pantalla_gpx">GPX</string>
+    <string name="pantalla_kml">KML</string>
+    <!-- Mensajes -->
+    <string name="recorridoGuardado">Se ha guardado el recorrido en el repositorio</string>
+    <string name="sinRuta">- Sin Ruta -</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
