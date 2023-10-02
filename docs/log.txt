@@ -1,0 +1,6 @@
+ERROR 6: Geometry type of `3D Point' not supported for 'trk' element.
+
+ERROR 6: Geometry type of `3D Point' not supported for 'trk' element.
+
+ERROR 6: Geometry type of `3D Point' not supported for 'trk' element.
+

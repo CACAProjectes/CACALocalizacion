@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[Indicaciones de Carrer de la Música, 9, 08191 Rubí, Barcelona, España a Ctra. de Ribes, 128A, 08033 Barcelona, España]]></name>
+        <desc><![CDATA[Converted from a KML file KML2GPX.COM]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="41.4810591" lon="2.0350498">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Carrer de la Música, 9, 08191 Rubí, Barcelona, España]]></name>
+                    <cmt><![CDATA[Waypoint no: 1]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 1]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="41.4570934" lon="2.190991">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Ctra. de Ribes, 128A, 08033 Barcelona, España]]></name>
+                    <cmt><![CDATA[Waypoint no: 2]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 2]]></desc>
+                </wpt>
+                                                            
+                    
+    
+</gpx>

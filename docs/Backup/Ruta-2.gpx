@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-6810053--Rubí:Ruta-2</name>
+			    <trkseg>
+	
+			<trkpt lat="41.482340" lon="2.032330">
+			 <ele>124</ele>
+			<time>2016-11-27T10:17:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481090" lon="2.033400">
+			 <ele>124</ele>
+			<time>2016-11-27T10:19:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481600" lon="2.034600">
+			 <ele>121</ele>
+			<time>2016-11-27T10:21:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.480740" lon="2.035350">
+			 <ele>121</ele>
+			<time>2016-11-27T10:23:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.478920" lon="2.036770">
+			 <ele>117</ele>
+			<time>2016-11-27T10:25:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.478350" lon="2.036960">
+			 <ele>118</ele>
+			<time>2016-11-27T10:27:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.477730" lon="2.036830">
+			 <ele>118</ele>
+			<time>2016-11-27T10:29:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.477240" lon="2.037140">
+			 <ele>117</ele>
+			<time>2016-11-27T10:31:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.477450" lon="2.037960">
+			 <ele>115</ele>
+			<time>2016-11-27T10:33:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.478410" lon="2.037890">
+			 <ele>119</ele>
+			<time>2016-11-27T10:35:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.480660" lon="2.037420">
+			 <ele>122</ele>
+			<time>2016-11-27T10:37:09Z</time>
+			</trkpt>
+		
+			<trkpt lat="41.481470" lon="2.037000">
+			 <ele>121</ele>
+			<time>2016-11-27T10:39:09Z</time>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

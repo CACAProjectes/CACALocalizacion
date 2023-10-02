@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>Los Cazadores - Sitges pi</name>
+			    <trkseg>		
+					<trkpt lat="41.2647855" lon="1.83849439999995">
+								<ele>0</ele>
+						<name><![CDATA[Los cazadores]]></name>
+						<cmt><![CDATA[Waypoint no: 1]]></cmt>
+						<desc><![CDATA[This is waypoint no: 1]]></desc>
+					</trkpt>
+								
+					<trkpt lat="41.2495425" lon="1.83749660000001">
+								<ele>0</ele>
+						<name><![CDATA[Creu De Sant Isidre]]></name>
+						<cmt><![CDATA[Waypoint no: 2]]></cmt>
+						<desc><![CDATA[This is waypoint no: 2]]></desc>
+					</trkpt>
+								
+					<trkpt lat="41.2417998" lon="1.82192810000004">
+								<ele>0</ele>
+						<name><![CDATA[Fundacion Privada la Granja de Sitges]]></name>
+						<cmt><![CDATA[Waypoint no: 3]]></cmt>
+						<desc><![CDATA[This is waypoint no: 3]]></desc>
+					</trkpt>
+								
+					<trkpt lat="41.2603018" lon="1.82707019999998">
+								<ele>0</ele>
+						<name><![CDATA[Ports Garraf]]></name>
+						<cmt><![CDATA[Waypoint no: 4]]></cmt>
+						<desc><![CDATA[This is waypoint no: 4]]></desc>
+					</trkpt>
+								
+					<trkpt lat="41.2647855" lon="1.83849439999995">
+								<ele>0</ele>
+						<name><![CDATA[Los cazadores]]></name>
+						<cmt><![CDATA[Waypoint no: 5]]></cmt>
+						<desc><![CDATA[This is waypoint no: 5]]></desc>
+					</trkpt>
+								
+					<trkpt lat="41.253355" lon="1.82343000000003">
+								<ele>0</ele>
+						<name><![CDATA[ESCUELA DE EQUITACIÓN OSO PONY Y PONY CLUB SITGES]]></name>
+						<cmt><![CDATA[Waypoint no: 6]]></cmt>
+						<desc><![CDATA[This is waypoint no: 6]]></desc>
+					</trkpt>
+								
+					<trkpt lat="41.2440908" lon="1.82198360000007">
+								<ele>0</ele>
+						<name><![CDATA[Shambala B&B]]></name>
+						<cmt><![CDATA[Waypoint no: 7]]></cmt>
+						<desc><![CDATA[This is waypoint no: 7]]></desc>
+					</trkpt>		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	

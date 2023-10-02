@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<gpx
+		 version="1.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xmlns="http://www.topografix.com/GPX/1/0"
+		 xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+		 creator="http://www.openrunner.com">
+			<trk>
+				<name>OR-6721664--Rubí:Puntos interes</name>
+			    <trkseg>
+	
+			<trkpt lat="41.482290" lon="2.036280">
+			 <ele>123</ele>
+			<time>2016-10-27T17:04:59Z</time>
+			<name>Pipican-Estació</name>
+			</trkpt>
+		
+			<trkpt lat="41.482190" lon="2.032710">
+			 <ele>125</ele>
+			<time>2016-10-27T17:06:59Z</time>
+			<name>Espona</name>
+			</trkpt>
+		
+			<trkpt lat="41.481090" lon="2.034660">
+			 <ele>122</ele>
+			<time>2016-10-27T17:08:59Z</time>
+			<name>Casa</name>
+			</trkpt>
+		
+				</trkseg>
+			   </trk>
+			 </gpx>
+	
